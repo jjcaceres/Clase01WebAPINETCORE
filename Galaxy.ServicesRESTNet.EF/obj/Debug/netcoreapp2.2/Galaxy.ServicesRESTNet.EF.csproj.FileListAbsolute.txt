@@ -1,0 +1,9 @@
+D:\GalaxyTraining\SERVICIOS REST CON NET CORE\CLASE01\GalaxyServicesRESTNet\Galaxy.ServicesRESTNet\Galaxy.ServicesRESTNet.EF\bin\Debug\netcoreapp2.2\Galaxy.ServicesRESTNet.EF.deps.json
+D:\GalaxyTraining\SERVICIOS REST CON NET CORE\CLASE01\GalaxyServicesRESTNet\Galaxy.ServicesRESTNet\Galaxy.ServicesRESTNet.EF\bin\Debug\netcoreapp2.2\Galaxy.ServicesRESTNet.EF.runtimeconfig.json
+D:\GalaxyTraining\SERVICIOS REST CON NET CORE\CLASE01\GalaxyServicesRESTNet\Galaxy.ServicesRESTNet\Galaxy.ServicesRESTNet.EF\bin\Debug\netcoreapp2.2\Galaxy.ServicesRESTNet.EF.runtimeconfig.dev.json
+D:\GalaxyTraining\SERVICIOS REST CON NET CORE\CLASE01\GalaxyServicesRESTNet\Galaxy.ServicesRESTNet\Galaxy.ServicesRESTNet.EF\bin\Debug\netcoreapp2.2\Galaxy.ServicesRESTNet.EF.dll
+D:\GalaxyTraining\SERVICIOS REST CON NET CORE\CLASE01\GalaxyServicesRESTNet\Galaxy.ServicesRESTNet\Galaxy.ServicesRESTNet.EF\bin\Debug\netcoreapp2.2\Galaxy.ServicesRESTNet.EF.pdb
+D:\GalaxyTraining\SERVICIOS REST CON NET CORE\CLASE01\GalaxyServicesRESTNet\Galaxy.ServicesRESTNet\Galaxy.ServicesRESTNet.EF\obj\Debug\netcoreapp2.2\Galaxy.ServicesRESTNet.EF.AssemblyInfoInputs.cache
+D:\GalaxyTraining\SERVICIOS REST CON NET CORE\CLASE01\GalaxyServicesRESTNet\Galaxy.ServicesRESTNet\Galaxy.ServicesRESTNet.EF\obj\Debug\netcoreapp2.2\Galaxy.ServicesRESTNet.EF.AssemblyInfo.cs
+D:\GalaxyTraining\SERVICIOS REST CON NET CORE\CLASE01\GalaxyServicesRESTNet\Galaxy.ServicesRESTNet\Galaxy.ServicesRESTNet.EF\obj\Debug\netcoreapp2.2\Galaxy.ServicesRESTNet.EF.dll
+D:\GalaxyTraining\SERVICIOS REST CON NET CORE\CLASE01\GalaxyServicesRESTNet\Galaxy.ServicesRESTNet\Galaxy.ServicesRESTNet.EF\obj\Debug\netcoreapp2.2\Galaxy.ServicesRESTNet.EF.pdb

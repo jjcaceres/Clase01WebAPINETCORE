@@ -1,0 +1,42 @@
+-- configuración de usuario: --
+
+git config --global user.name "Nombre del desarrollador"
+git config --global user.email "tuemail@mail.com"
+
+-- Clonar proyecto: --
+
+git clone URL_DE_REPOSITORIO
+
+-- push (envio de cambios) de un proyecto --
+git init
+git remote add origin URL_DE_REPOSITORIO
+git add . (punto sirve para añadir todo, si se coloca nombre del archivo ejem: ' git add archivo.txt ' se añadirá ese archivo para poder subir)
+git commit -m "initial push" (guarda todo lo que se enviará en el comando commit, -m significa que se añadirá un mensaje para poder saber textualmente cual es el commit, dentro de las comillas " " ira el mensaje para distinguir el commit ejem: "se agrego el feature de usuarios" )
+git push -u origin master (subir los cambios por primera vez)
+--------------------
+NET CORE SDK
+dotnet .dll
+
+dotnet new mvc
+dotnet new webapi
+dotnet new --help
+
+#IF|NETCORE //POR BLOQUES
+galaxy
+Password123
+
+
+INSERT INTO [Entrenamiento].[Alumno]
+           (
+           [Nombre]
+           ,[ApellidoPaterno]
+           ,[ApellidoMaterno]
+           ,[Edad])
+     VALUES
+           (		   'Franco','Cotrina','Romero',35   ),
+		   (		   'Carlos','Esejo','Huerta',29   ),
+		   (		   'Jose','Caceres','Mamani',36   ),
+		   (		   'Yuri','Grandez','Del Aguila',33   )
+go
+
+entity framework core design

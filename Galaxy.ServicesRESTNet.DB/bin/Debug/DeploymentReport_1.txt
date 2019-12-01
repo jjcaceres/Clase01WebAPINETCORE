@@ -1,0 +1,15 @@
+﻿** Aspectos destacados
+     Tablas que se volverán a compilar
+       [Entrenamiento].[Alumno]
+     Índices clúster que se van a quitar
+       Ninguno
+     Índices clúster que se van a crear
+       Ninguno
+     Posibles incidencias de datos
+       Ninguno
+
+** Acciones del usuario
+     Nueva compilación de tablas
+       [Entrenamiento].[Alumno] (Tabla)
+
+** Acciones de compatibilidad

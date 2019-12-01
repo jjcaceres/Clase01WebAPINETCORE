@@ -1,0 +1,6 @@
+D:\GalaxyTraining\SERVICIOS REST CON NET CORE\CLASE01\GalaxyServicesRESTNet\Galaxy.ServicesRESTNet\Galaxy.ServicesRESTNet.DB\bin\Debug\Galaxy.ServicesRESTNet.DB.dacpac
+D:\GalaxyTraining\SERVICIOS REST CON NET CORE\CLASE01\GalaxyServicesRESTNet\Galaxy.ServicesRESTNet\Galaxy.ServicesRESTNet.DB\bin\Debug\Galaxy.ServicesRESTNet.DB.dll
+D:\GalaxyTraining\SERVICIOS REST CON NET CORE\CLASE01\GalaxyServicesRESTNet\Galaxy.ServicesRESTNet\Galaxy.ServicesRESTNet.DB\bin\Debug\Galaxy.ServicesRESTNet.DB.pdb
+D:\GalaxyTraining\SERVICIOS REST CON NET CORE\CLASE01\GalaxyServicesRESTNet\Galaxy.ServicesRESTNet\Galaxy.ServicesRESTNet.DB\obj\Debug\Galaxy.ServicesRESTNet.DB.sqlprojAssemblyReference.cache
+D:\GalaxyTraining\SERVICIOS REST CON NET CORE\CLASE01\GalaxyServicesRESTNet\Galaxy.ServicesRESTNet\Galaxy.ServicesRESTNet.DB\obj\Debug\Galaxy.ServicesRESTNet.DB.dll
+D:\GalaxyTraining\SERVICIOS REST CON NET CORE\CLASE01\GalaxyServicesRESTNet\Galaxy.ServicesRESTNet\Galaxy.ServicesRESTNet.DB\obj\Debug\Galaxy.ServicesRESTNet.DB.pdb

@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Galaxy.ServicesRESTNet.Client.Web", "Galaxy.ServicesRESTNet.Client.Web\Galaxy.ServicesRESTNet.Client.Web.csproj", "{8CC81906-58C1-48AC-92A4-432971817DE3}"
+EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "Galaxy.ServicesRESTNet.DB", "Galaxy.ServicesRESTNet.DB\Galaxy.ServicesRESTNet.DB.sqlproj", "{81D2933C-B30C-4F3F-B095-76804FAE517B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Galaxy.ServicesRESTNet.EF", "Galaxy.ServicesRESTNet.EF\Galaxy.ServicesRESTNet.EF.csproj", "{F19F2D07-6CEA-40E0-9EF7-05AFEE1AC2EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Galaxy.ServicesRESTNet.API", "Galaxy.ServicesRESTNet.API\Galaxy.ServicesRESTNet.API.csproj", "{6DDD25AD-1FAF-45DE-9783-ED9ACAF603D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CC81906-58C1-48AC-92A4-432971817DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC81906-58C1-48AC-92A4-432971817DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC81906-58C1-48AC-92A4-432971817DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC81906-58C1-48AC-92A4-432971817DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D2933C-B30C-4F3F-B095-76804FAE517B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81D2933C-B30C-4F3F-B095-76804FAE517B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81D2933C-B30C-4F3F-B095-76804FAE517B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{81D2933C-B30C-4F3F-B095-76804FAE517B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81D2933C-B30C-4F3F-B095-76804FAE517B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81D2933C-B30C-4F3F-B095-76804FAE517B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F19F2D07-6CEA-40E0-9EF7-05AFEE1AC2EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F19F2D07-6CEA-40E0-9EF7-05AFEE1AC2EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F19F2D07-6CEA-40E0-9EF7-05AFEE1AC2EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F19F2D07-6CEA-40E0-9EF7-05AFEE1AC2EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6DDD25AD-1FAF-45DE-9783-ED9ACAF603D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DDD25AD-1FAF-45DE-9783-ED9ACAF603D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DDD25AD-1FAF-45DE-9783-ED9ACAF603D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DDD25AD-1FAF-45DE-9783-ED9ACAF603D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A35BED9-B8B1-4DAD-87DD-F9B282446B75}
+	EndGlobalSection
+EndGlobal
